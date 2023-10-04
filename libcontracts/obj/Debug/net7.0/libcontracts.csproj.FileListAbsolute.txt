@@ -1,0 +1,12 @@
+C:\Users\amala.george\ExpLib\libcontracts\bin\Debug\net7.0\libcontracts.deps.json
+C:\Users\amala.george\ExpLib\libcontracts\bin\Debug\net7.0\libcontracts.dll
+C:\Users\amala.george\ExpLib\libcontracts\bin\Debug\net7.0\libcontracts.pdb
+C:\Users\amala.george\ExpLib\libcontracts\obj\Debug\net7.0\libcontracts.csproj.AssemblyReference.cache
+C:\Users\amala.george\ExpLib\libcontracts\obj\Debug\net7.0\libcontracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amala.george\ExpLib\libcontracts\obj\Debug\net7.0\libcontracts.AssemblyInfoInputs.cache
+C:\Users\amala.george\ExpLib\libcontracts\obj\Debug\net7.0\libcontracts.AssemblyInfo.cs
+C:\Users\amala.george\ExpLib\libcontracts\obj\Debug\net7.0\libcontracts.csproj.CoreCompileInputs.cache
+C:\Users\amala.george\ExpLib\libcontracts\obj\Debug\net7.0\libcontracts.dll
+C:\Users\amala.george\ExpLib\libcontracts\obj\Debug\net7.0\refint\libcontracts.dll
+C:\Users\amala.george\ExpLib\libcontracts\obj\Debug\net7.0\libcontracts.pdb
+C:\Users\amala.george\ExpLib\libcontracts\obj\Debug\net7.0\ref\libcontracts.dll

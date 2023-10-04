@@ -1,0 +1,12 @@
+C:\Users\amala.george\ExpLib\libDomain\bin\Debug\net7.0\libDomain.deps.json
+C:\Users\amala.george\ExpLib\libDomain\bin\Debug\net7.0\libDomain.dll
+C:\Users\amala.george\ExpLib\libDomain\bin\Debug\net7.0\libDomain.pdb
+C:\Users\amala.george\ExpLib\libDomain\obj\Debug\net7.0\libDomain.csproj.AssemblyReference.cache
+C:\Users\amala.george\ExpLib\libDomain\obj\Debug\net7.0\libDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amala.george\ExpLib\libDomain\obj\Debug\net7.0\libDomain.AssemblyInfoInputs.cache
+C:\Users\amala.george\ExpLib\libDomain\obj\Debug\net7.0\libDomain.AssemblyInfo.cs
+C:\Users\amala.george\ExpLib\libDomain\obj\Debug\net7.0\libDomain.csproj.CoreCompileInputs.cache
+C:\Users\amala.george\ExpLib\libDomain\obj\Debug\net7.0\libDomain.dll
+C:\Users\amala.george\ExpLib\libDomain\obj\Debug\net7.0\refint\libDomain.dll
+C:\Users\amala.george\ExpLib\libDomain\obj\Debug\net7.0\libDomain.pdb
+C:\Users\amala.george\ExpLib\libDomain\obj\Debug\net7.0\ref\libDomain.dll
