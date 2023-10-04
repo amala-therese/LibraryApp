@@ -1,0 +1,15 @@
+C:\Users\amala.george\ExpLib\libApplication\bin\Debug\net7.0\libApplication.deps.json
+C:\Users\amala.george\ExpLib\libApplication\bin\Debug\net7.0\libApplication.dll
+C:\Users\amala.george\ExpLib\libApplication\bin\Debug\net7.0\libApplication.pdb
+C:\Users\amala.george\ExpLib\libApplication\obj\Debug\net7.0\libApplication.csproj.AssemblyReference.cache
+C:\Users\amala.george\ExpLib\libApplication\obj\Debug\net7.0\libApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amala.george\ExpLib\libApplication\obj\Debug\net7.0\libApplication.AssemblyInfoInputs.cache
+C:\Users\amala.george\ExpLib\libApplication\obj\Debug\net7.0\libApplication.AssemblyInfo.cs
+C:\Users\amala.george\ExpLib\libApplication\obj\Debug\net7.0\libApplication.csproj.CoreCompileInputs.cache
+C:\Users\amala.george\ExpLib\libApplication\obj\Debug\net7.0\libApplication.dll
+C:\Users\amala.george\ExpLib\libApplication\obj\Debug\net7.0\refint\libApplication.dll
+C:\Users\amala.george\ExpLib\libApplication\obj\Debug\net7.0\libApplication.pdb
+C:\Users\amala.george\ExpLib\libApplication\obj\Debug\net7.0\ref\libApplication.dll
+C:\Users\amala.george\ExpLib\libApplication\bin\Debug\net7.0\libDomain.dll
+C:\Users\amala.george\ExpLib\libApplication\bin\Debug\net7.0\libDomain.pdb
+C:\Users\amala.george\ExpLib\libApplication\obj\Debug\net7.0\libApplication.csproj.CopyComplete
